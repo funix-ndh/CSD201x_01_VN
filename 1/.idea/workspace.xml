@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35ffacdc-d9de-4f14-9498-55dd8cb7dba7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bvQMhUilF5ABhkfpWyV69gJQSk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.14227086" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35ffacdc-d9de-4f14-9498-55dd8cb7dba7" name="Default Changelist" comment="" />
+      <created>1589510040090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589510040090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2448" y="-89" key="#Project_Structure" timestamp="1589525942429">
+      <screen x="1680" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="2448" y="-89" key="#Project_Structure/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589525942429" />
+    <state x="2424" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589525951932">
+      <screen x="1680" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="2424" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589525951932" />
+    <state x="2697" y="127" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589525775519">
+      <screen x="1680" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="2697" y="127" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589525775519" />
+    <state width="1634" height="920" key="GridCell.Tab.0.bottom" timestamp="1589643946200">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="920" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589643946200" />
+    <state width="2514" height="1310" key="GridCell.Tab.0.bottom/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589541697933" />
+    <state width="1634" height="920" key="GridCell.Tab.0.center" timestamp="1589643946199">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="920" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589643946199" />
+    <state width="2514" height="1310" key="GridCell.Tab.0.center/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589541697931" />
+    <state width="1634" height="920" key="GridCell.Tab.0.left" timestamp="1589643946199">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="920" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589643946199" />
+    <state width="2514" height="1310" key="GridCell.Tab.0.left/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589541697930" />
+    <state width="1634" height="920" key="GridCell.Tab.0.right" timestamp="1589643946199">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="920" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589643946199" />
+    <state width="2514" height="1310" key="GridCell.Tab.0.right/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589541697932" />
+    <state x="2448" y="-89" key="SettingsEditor" timestamp="1589525913017">
+      <screen x="1680" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="2448" y="-89" key="SettingsEditor/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589525913017" />
+    <state x="2648" y="56" width="624" height="548" key="find.popup" timestamp="1589540428180">
+      <screen x="1680" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="2648" y="56" width="624" height="548" key="find.popup/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589540428180" />
+    <state x="2180" y="-48" key="new project wizard" timestamp="1589524983386">
+      <screen x="1680" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="2180" y="-48" key="new project wizard/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589524983386" />
+    <state x="2625" y="-59" width="670" height="676" key="search.everywhere.popup" timestamp="1589531569427">
+      <screen x="1680" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="2625" y="-59" width="670" height="676" key="search.everywhere.popup/1680.-390.2560.1440/4240.-390.2560.1440/0.0.1680.1050@1680.-390.2560.1440" timestamp="1589531569427" />
+  </component>
+</project>
